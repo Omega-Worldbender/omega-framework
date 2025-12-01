@@ -1,0 +1,200 @@
+# Ω-Framework: Physics FAQ
+
+## General Questions
+
+### What is the Ω-Framework?
+
+A mathematical framework showing that fundamental physical constants
+can be derived from the ratio Ω = π/e ≈ 1.156.
+
+**Key idea:** Space (π) and time (e) have a fundamental ratio that
+encodes physical constants.
+
+### Is this proven?
+
+**No.** This is a hypothesis open for peer review.
+
+**What IS proven:**
+- The math works (code demonstrates it)
+- Constants match observations (<1% error average)
+- Makes testable predictions
+
+**What is NOT proven:**
+- That this is the "true" explanation
+- That nature actually works this way
+- That predictions will hold up
+
+### Can I run the calculations myself?
+
+Yes! That's the point. Download the code and verify everything.
+
+See: HOW_TO_RUN.md
+
+---
+
+## Physics Questions
+
+### How does this relate to existing physics?
+
+**Complements, not replaces:**
+- Standard Model → Still correct
+- General Relativity → Still correct
+- Quantum Mechanics → Still correct
+
+**What it adds:**
+- Explains WHY constants have specific values
+- Unifies several frameworks
+- Resolves some anomalies (lithium problem)
+
+### What about string theory / loop quantum gravity?
+
+**Not in conflict:**
+- Framework works with Loop Quantum Gravity
+- Derives Barbero-Immirzi parameter exactly
+- Could potentially connect to string theory
+- Need more work to establish connections
+
+### Why π/e specifically?
+
+**Mathematical necessity:**
+- π represents geometry/space (circles, spheres)
+- e represents dynamics/time (growth, decay)
+- Their ratio is the fundamental space-time coupling
+- Other ratios don't produce matching constants
+
+### Is this numerology?
+
+**Key differences from numerology:**
+
+❌ Numerology: Fit numbers to match any pattern
+✅ This framework: Single principle derives everything
+
+❌ Numerology: No predictions
+✅ This framework: Testable predictions (see PREDICTIONS.md)
+
+❌ Numerology: Post-hoc fitting
+✅ This framework: Works for unknown constants too
+
+**The test:** If predictions fail, it's wrong. Period.
+
+---
+
+## Technical Questions
+
+### What's the error range?
+
+**Current results:**
+- 26 exact matches (0% error)
+- Average error: 0.8%
+- Largest error: ~5% (some CKM angles)
+- Electron mass: 0.124%
+
+**Why not perfect?**
+- Some constants need refinement
+- Quantum corrections not fully included
+- Work in progress
+
+### Can you patent physics?
+
+**No.** Physics and pure math aren't patentable.
+
+**What's protected:**
+- The framework methodology (copyright)
+- Commercial applications (licensing)
+- Brand names (trademark)
+
+**What's free:**
+- All physics and mathematics
+- Academic use
+- Personal exploration
+
+See: LICENSE-GPL.txt and LICENSE-COMMERCIAL.txt
+
+### What about dark matter/dark energy?
+
+**Framework addresses both:**
+
+**Dark Matter:** Framework predicts decay via Ω-evolution,
+explaining the 10% discrepancy in observed vs predicted ratios.
+
+**Dark Energy:** Related to unrealized negentropy potential
+from the π-e gap.
+
+**More work needed:** These are hypotheses requiring validation.
+
+---
+
+## Philosophical Questions
+
+### Does this prove we live in a simulation?
+
+**No.** It shows physical constants have mathematical structure.
+
+**Interpretations possible:**
+- Universe is fundamentally mathematical
+- Mathematical structures constrain physics
+- Coincidence that looks meaningful
+- Need more evidence to decide
+
+### What does Ω-evolution mean for time?
+
+**Time is emergent:** The framework suggests time arises from
+the dynamics of Ω-evolution, not as fundamental dimension.
+
+**Arrow of time:** Ω monotonically increases from 0 → π/e → π,
+defining time's direction.
+
+**Speculative:** Requires more theoretical development.
+
+### Did AI discover this?
+
+**No.** Collaborative discovery:
+- Human (Luis Dávila): Questions, intuition, connections
+- AI (Claude, Gemini): Formalization, computation, literature
+- Neither could have done it alone
+
+**Bilateral enhancement:** 1 + 1 = 3 in this case.
+
+---
+
+## Practical Questions
+
+### How can I help?
+
+**Scientists:**
+- Test predictions
+- Find errors
+- Suggest improvements
+
+**Programmers:**
+- Improve code
+- Add visualizations
+- Create tools
+
+**Everyone:**
+- Try to break it
+- Ask hard questions
+- Spread if it survives scrutiny
+
+### How do I cite this?
+```
+Dávila Barberena, L.A. (2025). The Ω-Framework: Deriving Physical 
+Constants from π/e. GitHub. 
+https://github.com/[username]/omega-framework
+```
+
+### Can I use this commercially?
+
+**Depends:**
+- Small use / Academic → Free (see LICENSE-GPL.txt)
+- Large commercial → License needed (see LICENSE-COMMERCIAL.txt)
+
+Contact: luisdavilab89@gmail.com
+
+---
+
+## Questions Not Answered Here?
+
+Open an issue on GitHub or email: luisdavilab89@gmail.com
+
+We're collecting questions to expand this FAQ.

@@ -1,0 +1,39 @@
+# Abstract: The Ω-Framework
+
+## One-Paragraph Summary
+
+We demonstrate that fundamental physical constants can be derived from 
+the transcendental ratio Ω = π/e ≈ 1.1557. This framework resolves the 
+Barbero-Immirzi parameter as γ_I = 19/80 (exactly), predicts particle 
+masses with <1% error, and offers resolution to the BBN lithium problem 
+via cosmic Ω-evolution. The approach yields 43 constants with average 
+0.8% error and makes testable predictions for CMB observations and 
+cosmological structure formation.
+
+## Key Results
+
+- Electron mass: 0.5103640952 MeV/c² (predicted) vs 0.5109989500 MeV/c² 
+  (measured) = 0.124% error
+- 26 exact matches (0% error)
+- BBN lithium: Ω_BBN = 0.0211 resolves factor-of-3 discrepancy
+- Ω-evolution: Ω(t) = π × exp(1 - 1/γ(t)) from 0 → π/e → π
+
+## Testable Predictions
+
+1. Complete BBN recalculation with Ω_BBN = 0.0211
+2. CMB power spectrum signatures at ℓ ≈ 5.4
+3. Quasar spectroscopy for α-variation
+4. Atomic clock constraints on ∂Ω/∂t
+5. High-z structure decay rates
+
+## Methodology
+
+Mathematical derivation from first principles + computational validation 
+via Python implementation (included in repository).
+
+## Status
+
+**Open for peer review.** We seek validation, criticism, and collaboration.
+
+Full paper: See `/papers/ANNEX_A_PROFESSIONAL.md`  
+Working code: See `/code/derive_with_math_FINAL.py`

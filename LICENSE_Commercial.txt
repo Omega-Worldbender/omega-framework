@@ -1,0 +1,47 @@
+COMMERCIAL LICENSE AGREEMENT
+The Ω-Framework
+
+Copyright (c) 2025 Luis Alberto Dávila Barberena
+
+COMMERCIAL USE LICENSING
+
+This software, framework, and methodology are free for academic, personal,
+and small business use (see LICENSE-GPL.txt).
+
+For COMMERCIAL USE by organizations with annual revenue exceeding 
+$1,000,000 USD:
+
+CONTACT FOR LICENSING:
+Email: luisdavilab89@gmail.com
+Subject: Ω-Framework Commercial License Inquiry
+
+LICENSE TIERS:
+
+Small Business ($1M-$10M revenue):
+- Annual license: Contact for pricing
+- Includes basic support
+
+Mid-size Business ($10M-$100M revenue):
+- Annual license: Contact for pricing
+- Includes priority support
+
+Enterprise (>$100M revenue):
+- Annual license: Contact for pricing
+- Includes dedicated support and custom implementations
+
+WHAT'S INCLUDED:
+- Right to use framework in commercial applications
+- Access to updates and improvements
+- Technical support based on tier
+- Commercial distribution rights (with attribution)
+
+WHAT'S NOT ALLOWED WITHOUT LICENSE:
+- Using framework in revenue-generating applications
+- Incorporating into commercial products
+- Selling access to framework-based services
+
+For questions, contact: luisdavilab89@gmail.com
+
+The mathematics and physics are freely available for validation
+and academic research. This license covers commercial application
+of the methodology and framework.

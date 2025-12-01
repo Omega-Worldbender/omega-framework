@@ -1,0 +1,79 @@
+# Contact Information
+
+## Luis Alberto Dávila Barberena
+
+**Email:** luisdavilab89@gmail.com
+
+**Location:** Mexico
+
+**Professional Background:**
+- Chemical Engineer (Universidad Iberoamericana)
+- MBA (ESADE Business School)
+- Founder, RegenAgua (Water Treatment Engineering)
+
+---
+
+## For Different Inquiries
+
+### Peer Review / Scientific Collaboration
+**Email:** luisdavilab89@gmail.com
+**Subject:** "Ω-Framework: Peer Review"
+
+Please include:
+- Your background/affiliation
+- Specific aspects you want to review
+- Questions or concerns
+
+### Commercial Licensing
+**Email:** luisdavilab89@gmail.com
+**Subject:** "Ω-Framework: Commercial License"
+
+Please include:
+- Your organization
+- Annual revenue tier
+- Intended use case
+
+### Technical Questions / Bug Reports
+**GitHub Issues:** [Create an issue on the repository]
+**Email:** luisdavilab89@gmail.com
+**Subject:** "Ω-Framework: Technical Question"
+
+### Media / Press Inquiries
+**Email:** luisdavilab89@gmail.com
+**Subject:** "Ω-Framework: Media Inquiry"
+
+---
+
+## Response Time
+
+I aim to respond within:
+- Peer review requests: 1-2 weeks
+- Commercial inquiries: 3-5 business days  
+- Technical questions: 1 week
+- Media requests: 1-2 weeks
+
+*Please note: I'm a practicing engineer running a water treatment
+company, so response times may vary.*
+
+---
+
+## Open to Collaboration
+
+I welcome collaboration with:
+- Physicists interested in testing predictions
+- Mathematicians interested in formalization
+- Programmers interested in improving code
+- Anyone who can help validate or improve the framework
+
+**Philosophy:** Science advances through collaboration and scrutiny.
+All serious inquiries welcome.
+
+---
+
+## Social Media
+
+*To be added if/when framework gains traction*
+
+---
+
+Last updated: December 2025

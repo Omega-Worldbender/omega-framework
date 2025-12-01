@@ -1,0 +1,111 @@
+# Noob Guide: Running the Ω-Framework Code
+
+## Prerequisites
+
+- Python 3.7 or higher
+- numpy library
+
+## Installation (5 minutes)
+
+### Windows:
+```bash
+# Install Python from python.org
+# Open Command Prompt
+pip install numpy
+```
+
+### Mac:
+```bash
+# Install Python from python.org or use brew
+pip3 install numpy
+```
+
+### Linux:
+```bash
+sudo apt install python3 python3-pip
+pip3 install numpy
+```
+
+## Running the Code
+```bash
+# Navigate to code folder
+cd code
+
+# Run the program
+python derive_with_math_FINAL.py
+
+# You'll see a menu:
+# 1. Calculate electron mass
+# 2. View all constants
+# 3. Show methodology
+# etc...
+
+# Try option 1 first!
+```
+
+## What You'll See
+
+The program calculates the electron mass from pure mathematics:
+- Input: Only π and e
+- Process: Ω-framework equations
+- Output: 0.510364 MeV/c²
+- Compare to measured: 0.511000 MeV/c²
+- Error: 0.124%
+
+## Understanding the Output
+
+[Include screenshot or example output]
+
+## Problems?
+
+Open an issue on GitHub with:
+- Your Python version (`python --version`)
+- Error message
+- Operating system
+```
+
+### **4. LICENSE-COMMERCIAL.txt** (10 min)
+```
+COMMERCIAL LICENSE AGREEMENT
+The Ω-Framework
+
+Copyright (c) 2025 Luis Alberto Dávila Barberena
+
+TERMS FOR COMMERCIAL USE:
+
+1. SCOPE
+This license governs commercial use of the Ω-Framework software,
+documentation, and methodology.
+
+2. DEFINITIONS
+"Commercial Use" means use by any organization with annual revenue
+exceeding $10,000,000 USD, or use in profit-generating applications
+by organizations of any size.
+
+3. LICENSE TIERS
+
+Tier 1: Small Business (<$10M revenue)
+- Contact for pricing
+- Typically $5,000 - $20,000/year
+
+Tier 2: Mid-size Business ($10M-$100M revenue)
+- Contact for pricing
+- Typically $20,000 - $100,000/year
+
+Tier 3: Enterprise (>$100M revenue)
+- Contact for pricing
+- Typically $100,000 - $500,000/year
+
+4. GRANT
+Upon payment of license fee, licensee receives non-exclusive,
+non-transferable right to use the framework for internal commercial
+applications.
+
+5. CONTACT
+For commercial licensing inquiries:
+Email: [your email]
+
+6. ACADEMIC/PERSONAL USE
+For non-commercial use, see LICENSE-GPL.txt
+```
+

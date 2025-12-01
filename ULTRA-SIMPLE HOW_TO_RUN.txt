@@ -1,0 +1,182 @@
+# How to Run solve_physics.py
+
+## 🚀 Quick Start (If you know Python)
+```bash
+cd path/to/omega-framework/code
+python solve_physics.py
+```
+
+Done. That's it.
+
+---
+
+## 📖 Complete Guide (For Beginners)
+
+### Step 1: Check if you have Python
+
+**Windows:**
+```bash
+python --version
+```
+
+**Mac/Linux:**
+```bash
+python3 --version
+```
+
+If you see "Python 3.x.x" → Go to Step 2
+
+If not → Install from https://www.python.org/downloads/
+- ⚠️ **Windows:** Check "Add Python to PATH" during install
+
+---
+
+### Step 2: Install numpy
+
+**Windows:**
+```bash
+pip install numpy
+```
+
+**Mac/Linux:**
+```bash
+pip3 install numpy
+```
+
+Wait ~30 seconds for installation.
+
+---
+
+### Step 3: Navigate to code folder
+
+**Windows:**
+```bash
+cd Desktop\omega-framework\code
+```
+
+**Mac/Linux:**
+```bash
+cd Desktop/omega-framework/code
+```
+
+(Adjust path if you put the folder somewhere else)
+
+---
+
+### Step 4: Run the program
+
+**Windows:**
+```bash
+python solve_physics.py
+```
+
+**Mac/Linux:**
+```bash
+python3 solve_physics.py
+```
+
+---
+
+## 🎯 What You'll See
+```
+═══════════════════════════════════════════════════════════
+   THE Ω-FRAMEWORK: Physical Constants from π/e
+═══════════════════════════════════════════════════════════
+
+Main Menu:
+1. 🎯 Derive Electron Mass
+2. 📊 View All Constants  
+3. 📚 Show Methodology
+4. 📈 Statistical Analysis
+5. 🌌 Ω-EVOLUTION: Cosmic Timeline
+6. 🕳️  Rabbit Hole (Easter Egg)
+7. ❌ Exit
+
+Enter choice (1-7):
+```
+
+**Try option 1 first** - calculates electron mass from pure math:
+- Predicted: 0.510364 MeV/c²
+- Measured: 0.511000 MeV/c²
+- Error: 0.124%
+
+---
+
+## ⚡ Two-Command Summary
+```bash
+cd Desktop/omega-framework/code
+python solve_physics.py
+```
+
+That's literally it.
+
+---
+
+## 🔧 Troubleshooting
+
+### "python: command not found"
+→ Install Python: https://www.python.org/downloads/
+
+### "No module named 'numpy'"
+→ Run: `pip install numpy` (or `pip3 install numpy` on Mac/Linux)
+
+### "Can't find file" or "No such file or directory"
+→ Make sure you're in the correct folder:
+```bash
+# Check where you are:
+pwd                    # Mac/Linux
+cd                     # Windows
+
+# Navigate to correct location:
+cd Desktop/omega-framework/code
+```
+
+### "Permission denied"
+→ Try: `python3 solve_physics.py` (Mac/Linux)
+
+### Still stuck?
+→ Email: luisdavilab89@gmail.com with:
+  - Your operating system
+  - Screenshot of error
+  - Output of `python --version`
+
+---
+
+## 📁 What's in the menu?
+
+**Option 1:** Single electron mass calculation (quick demo)  
+**Option 2:** All 43 constants with errors  
+**Option 3:** How the math works  
+**Option 4:** Statistical analysis  
+**Option 5:** Cosmic Ω-evolution timeline  
+**Option 6:** Hidden features  
+**Option 7:** Exit program
+
+---
+
+## 💡 For Developers
+
+**Requirements:**
+- Python 3.7+
+- numpy
+
+**Install dependencies:**
+```bash
+pip install -r requirements.txt
+```
+
+**Run:**
+```bash
+python solve_physics.py
+```
+
+**Test mode:** (if implemented)
+```bash
+python solve_physics.py --test
+```
+
+---
+
+Have fun exploring the math! 🔥
+
+Contact: luisdavilab89@gmail.com
