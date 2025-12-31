@@ -184,7 +184,7 @@ https://synthesisnova.ai
 https://github.com/Omega-Worldbender
 
 **Commercial Licensing:**  
-licensing@synthesisnova.ai
+worldbender@synthesisnova.ai
 
 ---
 
