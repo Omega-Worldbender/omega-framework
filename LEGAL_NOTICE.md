@@ -2,7 +2,7 @@
 
 **Repository:** Synthesis Nova / Omega Framework  
 **Copyright:** © 2023-2025 Luis Alberto Dávila Barberena  
-**Last Updated:** December 30, 2024
+**Last Updated:** December 30, 2025
 
 ---
 
@@ -151,7 +151,7 @@ If you want to build an AI Operating System with:
 
 - Injunctive relief
 - Actual damages
-- Statutory damages (up to $150,000/work for willful infringement)
+- Statutory damages (up to $1,500,000,000/work for willful infringement)
 - Attorney's fees
 - Disgorgement of profits
 
